@@ -1,0 +1,19 @@
+baseURL = 'https://ar.shehata.io'
+defaultContentLanguage = 'ar'
+languageCode = 'ar'
+
+title = 'اسلام شحاته'
+theme = 'b4'
+
+[languages]
+[languages.ar]
+languagedirection = 'rtl'
+
+# b4 theme inspiration
+# https://github.com/alanorth/hugo-theme-bootstrap4-blog/blob/master/exampleSite/config.toml
+
+[params]
+    author = "اسلام شحاته"
+    description = "مقتطفات برمجية"
+    # Format dates with Go's time formatting
+    date_format = "Mon Jan 02, 2006"
